@@ -1,0 +1,27 @@
+.button {
+  width: 384px;
+  border-radius: 4px;
+  padding: 20px 40px 20px 40px;
+  background: #2A6CEA;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  color: white;
+  border: none;
+}
+
+  .button:hover {
+    background: #397DFF;
+    cursor: pointer;
+  }
+
+.error {
+  margin-top: 10px;
+  color: red;
+}
+
+@media only screen and (max-width: 430px) {
+  .button {
+    width: auto;
+  }
+}

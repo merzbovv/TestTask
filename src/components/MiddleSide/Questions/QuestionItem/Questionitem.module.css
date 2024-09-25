@@ -1,0 +1,49 @@
+.container {
+  padding: 5px;
+}
+
+  .container:hover {
+    cursor: pointer;
+  }
+
+    .container:hover .bold {
+      color: #2A6CEA;
+    }
+
+    .container:hover .img {
+      filter: opacity(0.5) drop-shadow(0 0 0 #2A6CEA);
+    }
+
+.item {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+  .item p {
+    padding: 0;
+    margin: 0;
+  }
+
+.bold {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.regular {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.hr {
+  color: #ECEFF2;
+  opacity: 0.2;
+}

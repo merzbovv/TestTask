@@ -1,0 +1,152 @@
+.header {
+  width: 100%;
+  height: 80px;
+  position: absolute;
+  z-index: 1;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.leftSide, .rightSide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+  .rightSide > div {
+    padding: 15px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: white;
+  }
+
+    .rightSide > div:hover {
+      text-decoration-line: underline;
+      cursor: pointer;
+    }
+
+.nameCompany {
+  color: white;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.logo {
+  margin-right: 10px;
+  display: flex;
+}
+
+.circleBlue, .circleWhite {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+}
+
+.circleBlue {
+  margin-right: -10px;
+  background: #2A6CEA;
+  z-index: 2;
+}
+
+.circleWhite {
+  background: white;
+  z-index: 1;
+}
+
+.lines:hover {
+  cursor: pointer;
+}
+
+.mobileNav {
+  position: fixed;
+  width: 100%;
+  z-index: 3;
+  top: 0;
+  background: white;
+}
+
+.circleGrey {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  z-index: 1;
+  background: #ECEFF2;
+}
+
+.mobileLogo {
+  display: flex;
+  padding: 15px;
+}
+
+.wrapperLogo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nameCompanyMobile {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.close {
+  padding: 15px;
+}
+
+  .close:hover {
+    cursor: pointer;
+  }
+
+.hr {
+  width: 90%;
+  color: #ECEFF2;
+  opacity: 0.2;
+}
+
+.wrapperMobileItemNav {
+  padding: 15px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 32px;
+  color: #83898F;
+}
+
+.border {
+  border-bottom: 1px solid grey;
+}
+
+@media only screen and (max-width: 1280px) {
+  .header {
+    grid-template-columns: 20fr 80fr;
+    align-items: center;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .header {
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+  }
+
+  .leftSide {
+    padding: 15px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+
+  .rightSide {
+    padding: 15px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+  }
+}

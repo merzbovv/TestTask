@@ -1,0 +1,54 @@
+.wrapper {
+  width: 384px;
+  display: inline-block;
+  vertical-align: top;
+  position: relative;
+}
+
+.formInput {
+  margin-bottom: 10px;
+  padding: 15px;
+  width: -webkit-fill-available;
+  width: -moz-available;
+  height: 28px;
+  border-radius: 4px;
+  font-size: 15px;
+  border: 2px solid #F6F8FA;
+  background: #F6F8FA;
+}
+
+.formLabel {
+  position: absolute;
+  pointer-events: none;
+  left: 15px;
+  right: 15px;
+  top: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  line-height: 60px;
+  transition: .2s;
+  color: grey;
+}
+
+.formInput:focus ~ .formLabel,
+.formInput:not(:focus):valid ~ .formLabel {
+  top: -20px;
+  font-size: 14.5px;
+  color: grey;
+}
+
+.wrapper input:focus {
+  border-radius: 4px;
+  background: white;
+  outline: 2px solid #C2C8CD;
+}
+
+.error {
+  color: red;
+}
+
+@media only screen and (max-width: 430px) {
+  .wrapper {
+    width: auto;
+  }
+}

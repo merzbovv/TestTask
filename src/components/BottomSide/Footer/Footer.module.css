@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+  .container p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+  }

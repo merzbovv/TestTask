@@ -1,0 +1,157 @@
+.container {
+  margin-top: 50px;
+  height: 564px;
+  background: #F6F8FA;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.dotsWrapper {
+  display: flex;
+  flex-direction: row;
+}
+
+.round {
+  border-radius: 50%;
+  margin: 5px;
+  padding: 6px;
+  border-radius: 50%;
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.9);
+  background: #C2C8CD;
+}
+
+.roundActive {
+  border-radius: 50%;
+  margin: 5px;
+  padding: 6px;
+  border-radius: 50%;
+  box-shadow: 1px 1px 2px rgba(21, 57, 123, 0.76);
+  background: #2A6CEA;
+}
+
+.container {
+  height: 564px;
+}
+
+.slider {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background: #F6F8FA;
+}
+
+.wrapperSlider {
+  display: flex;
+  align-items: center;
+}
+
+.item {
+  margin: 20px;
+  padding: 5px;
+  width: 341px;
+  height: 316px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: white;
+  box-shadow: 0 0 10px 2px rgba(34, 60, 80, .2);
+  webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+  .item:hover {
+    cursor: pointer;
+  }
+
+  .item:nth-last-of-type(1), .item:first-of-type {
+    display: none;
+  }
+
+.arrow {
+  padding: 10px;
+}
+
+.rotateArrow {
+  rotate: 180deg;
+}
+
+.arrow:hover {
+  filter: opacity(0.5) drop-shadow(0 0 0 #2A6CEA);
+  cursor: pointer;
+}
+
+.avatar {
+  margin-right: 15px;
+}
+
+.topSide {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+}
+
+.bold {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.regular {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.city {
+  margin-top: 5px;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.description {
+  margin-top: 10px;
+  padding: 10px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+@media only screen and (max-width: 1300px) {
+  .item:nth-last-of-type(2) {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .item:nth-last-of-type(3) {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 530px) {
+  .container {
+    margin-top: 0px;
+    height: max-content;
+  }
+
+  .arrow {
+    display: none;
+  }
+
+  .item {
+    width: 288px;
+  }
+
+  .dotsWrapper {
+    margin-bottom: 10px;
+  }
+}

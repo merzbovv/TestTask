@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Next\u002BReact\u002BTS\\tests\\LaboratoryInternet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDED62B0-0D23-46A3-B3C6-E87D4462E7D9}|laboratoryinternet.esproj|d:\\next\u002Breact\u002Bts\\tests\\laboratoryinternet\\src\\components\\middleside\\informations\\informations.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FDED62B0-0D23-46A3-B3C6-E87D4462E7D9}|laboratoryinternet.esproj|solutionrelative:src\\components\\middleside\\informations\\informations.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDED62B0-0D23-46A3-B3C6-E87D4462E7D9}|laboratoryinternet.esproj|d:\\next\u002Breact\u002Bts\\tests\\laboratoryinternet\\src\\components\\middleside\\howitworks\\howitworks.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FDED62B0-0D23-46A3-B3C6-E87D4462E7D9}|laboratoryinternet.esproj|solutionrelative:src\\components\\middleside\\howitworks\\howitworks.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDED62B0-0D23-46A3-B3C6-E87D4462E7D9}|laboratoryinternet.esproj|d:\\next\u002Breact\u002Bts\\tests\\laboratoryinternet\\src\\components\\bottomside\\bottomside.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FDED62B0-0D23-46A3-B3C6-E87D4462E7D9}|laboratoryinternet.esproj|solutionrelative:src\\components\\bottomside\\bottomside.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDED62B0-0D23-46A3-B3C6-E87D4462E7D9}|laboratoryinternet.esproj|d:\\next\u002Breact\u002Bts\\tests\\laboratoryinternet\\src\\components\\bottomside\\form\\form.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FDED62B0-0D23-46A3-B3C6-E87D4462E7D9}|laboratoryinternet.esproj|solutionrelative:src\\components\\bottomside\\form\\form.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDED62B0-0D23-46A3-B3C6-E87D4462E7D9}|laboratoryinternet.esproj|d:\\next\u002Breact\u002Bts\\tests\\laboratoryinternet\\src\\components\\bottomside\\form\\phone\\phone.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FDED62B0-0D23-46A3-B3C6-E87D4462E7D9}|laboratoryinternet.esproj|solutionrelative:src\\components\\bottomside\\form\\phone\\phone.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDED62B0-0D23-46A3-B3C6-E87D4462E7D9}|laboratoryinternet.esproj|d:\\next\u002Breact\u002Bts\\tests\\laboratoryinternet\\src\\components\\bottomside\\form\\firstname\\firstname.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FDED62B0-0D23-46A3-B3C6-E87D4462E7D9}|laboratoryinternet.esproj|solutionrelative:src\\components\\bottomside\\form\\firstname\\firstname.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDED62B0-0D23-46A3-B3C6-E87D4462E7D9}|laboratoryinternet.esproj|d:\\next\u002Breact\u002Bts\\tests\\laboratoryinternet\\src\\components\\bottomside\\form\\buttonsubmit\\buttonsubmit.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FDED62B0-0D23-46A3-B3C6-E87D4462E7D9}|laboratoryinternet.esproj|solutionrelative:src\\components\\bottomside\\form\\buttonsubmit\\buttonsubmit.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDED62B0-0D23-46A3-B3C6-E87D4462E7D9}|laboratoryinternet.esproj|d:\\next\u002Breact\u002Bts\\tests\\laboratoryinternet\\src\\components\\bottomside\\form\\agree\\agree.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FDED62B0-0D23-46A3-B3C6-E87D4462E7D9}|laboratoryinternet.esproj|solutionrelative:src\\components\\bottomside\\form\\agree\\agree.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDED62B0-0D23-46A3-B3C6-E87D4462E7D9}|laboratoryinternet.esproj|d:\\next\u002Breact\u002Bts\\tests\\laboratoryinternet\\src\\components\\bottomside\\footer\\footer.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FDED62B0-0D23-46A3-B3C6-E87D4462E7D9}|laboratoryinternet.esproj|solutionrelative:src\\components\\bottomside\\footer\\footer.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 794,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Informations.tsx",
+              "DocumentMoniker": "D:\\Next\u002BReact\u002BTS\\tests\\LaboratoryInternet\\src\\components\\MiddleSide\\Informations\\Informations.tsx",
+              "RelativeDocumentMoniker": "src\\components\\MiddleSide\\Informations\\Informations.tsx",
+              "ToolTip": "D:\\Next\u002BReact\u002BTS\\tests\\LaboratoryInternet\\src\\components\\MiddleSide\\Informations\\Informations.tsx",
+              "RelativeToolTip": "src\\components\\MiddleSide\\Informations\\Informations.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-25T10:36:17.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HowItWorks.tsx",
+              "DocumentMoniker": "D:\\Next\u002BReact\u002BTS\\tests\\LaboratoryInternet\\src\\components\\MiddleSide\\HowItWorks\\HowItWorks.tsx",
+              "RelativeDocumentMoniker": "src\\components\\MiddleSide\\HowItWorks\\HowItWorks.tsx",
+              "ToolTip": "D:\\Next\u002BReact\u002BTS\\tests\\LaboratoryInternet\\src\\components\\MiddleSide\\HowItWorks\\HowItWorks.tsx",
+              "RelativeToolTip": "src\\components\\MiddleSide\\HowItWorks\\HowItWorks.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-25T10:36:15.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BottomSide.tsx",
+              "DocumentMoniker": "D:\\Next\u002BReact\u002BTS\\tests\\LaboratoryInternet\\src\\components\\BottomSide\\BottomSide.tsx",
+              "RelativeDocumentMoniker": "src\\components\\BottomSide\\BottomSide.tsx",
+              "ToolTip": "D:\\Next\u002BReact\u002BTS\\tests\\LaboratoryInternet\\src\\components\\BottomSide\\BottomSide.tsx",
+              "RelativeToolTip": "src\\components\\BottomSide\\BottomSide.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-25T10:36:12.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form.tsx",
+              "DocumentMoniker": "D:\\Next\u002BReact\u002BTS\\tests\\LaboratoryInternet\\src\\components\\BottomSide\\Form\\Form.tsx",
+              "RelativeDocumentMoniker": "src\\components\\BottomSide\\Form\\Form.tsx",
+              "ToolTip": "D:\\Next\u002BReact\u002BTS\\tests\\LaboratoryInternet\\src\\components\\BottomSide\\Form\\Form.tsx",
+              "RelativeToolTip": "src\\components\\BottomSide\\Form\\Form.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-25T10:36:08.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Phone.tsx",
+              "DocumentMoniker": "D:\\Next\u002BReact\u002BTS\\tests\\LaboratoryInternet\\src\\components\\BottomSide\\Form\\Phone\\Phone.tsx",
+              "RelativeDocumentMoniker": "src\\components\\BottomSide\\Form\\Phone\\Phone.tsx",
+              "ToolTip": "D:\\Next\u002BReact\u002BTS\\tests\\LaboratoryInternet\\src\\components\\BottomSide\\Form\\Phone\\Phone.tsx",
+              "RelativeToolTip": "src\\components\\BottomSide\\Form\\Phone\\Phone.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-25T10:36:05.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FirstName.tsx",
+              "DocumentMoniker": "D:\\Next\u002BReact\u002BTS\\tests\\LaboratoryInternet\\src\\components\\BottomSide\\Form\\FirstName\\FirstName.tsx",
+              "RelativeDocumentMoniker": "src\\components\\BottomSide\\Form\\FirstName\\FirstName.tsx",
+              "ToolTip": "D:\\Next\u002BReact\u002BTS\\tests\\LaboratoryInternet\\src\\components\\BottomSide\\Form\\FirstName\\FirstName.tsx",
+              "RelativeToolTip": "src\\components\\BottomSide\\Form\\FirstName\\FirstName.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-25T10:36:01.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ButtonSubmit.tsx",
+              "DocumentMoniker": "D:\\Next\u002BReact\u002BTS\\tests\\LaboratoryInternet\\src\\components\\BottomSide\\Form\\ButtonSubmit\\ButtonSubmit.tsx",
+              "RelativeDocumentMoniker": "src\\components\\BottomSide\\Form\\ButtonSubmit\\ButtonSubmit.tsx",
+              "ToolTip": "D:\\Next\u002BReact\u002BTS\\tests\\LaboratoryInternet\\src\\components\\BottomSide\\Form\\ButtonSubmit\\ButtonSubmit.tsx",
+              "RelativeToolTip": "src\\components\\BottomSide\\Form\\ButtonSubmit\\ButtonSubmit.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-25T10:35:59.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Agree.tsx",
+              "DocumentMoniker": "D:\\Next\u002BReact\u002BTS\\tests\\LaboratoryInternet\\src\\components\\BottomSide\\Form\\Agree\\Agree.tsx",
+              "RelativeDocumentMoniker": "src\\components\\BottomSide\\Form\\Agree\\Agree.tsx",
+              "ToolTip": "D:\\Next\u002BReact\u002BTS\\tests\\LaboratoryInternet\\src\\components\\BottomSide\\Form\\Agree\\Agree.tsx",
+              "RelativeToolTip": "src\\components\\BottomSide\\Form\\Agree\\Agree.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-25T10:35:56.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Footer.tsx",
+              "DocumentMoniker": "D:\\Next\u002BReact\u002BTS\\tests\\LaboratoryInternet\\src\\components\\BottomSide\\Footer\\Footer.tsx",
+              "RelativeDocumentMoniker": "src\\components\\BottomSide\\Footer\\Footer.tsx",
+              "ToolTip": "D:\\Next\u002BReact\u002BTS\\tests\\LaboratoryInternet\\src\\components\\BottomSide\\Footer\\Footer.tsx",
+              "RelativeToolTip": "src\\components\\BottomSide\\Footer\\Footer.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-25T10:35:51.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
